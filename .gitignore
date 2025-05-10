@@ -1,0 +1,22 @@
+# Maven target folder
+/target/
+
+# Build files
+*.class
+
+# IDE settings
+*.iml
+.idea/
+*.ipr
+*.iws
+nbproject/private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment & secret files
+.env
