@@ -1,0 +1,5 @@
+com\game\bowling\model\Frame.class
+com\game\bowling\model\Roll.class
+com\game\bowling\io\ConsoleIO.class
+com\game\bowling\service\ScoringService.class
+com\game\bowling\Main.class

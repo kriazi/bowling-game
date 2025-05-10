@@ -1,0 +1,4 @@
+com\game\bowling\io\ConsoleIOTest.class
+com\game\bowling\model\FrameTest.class
+com\game\bowling\MainTest.class
+com\game\bowling\service\ScoringServiceTest.class
